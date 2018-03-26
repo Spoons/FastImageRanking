@@ -1,0 +1,12 @@
+Compiling:
+
+Linux:
+    cd build
+    cmake -G "Unix Makefiles" ..
+    make
+
+Matlab:
+    call
+    mexCompile from tracker src root directory
+
+
